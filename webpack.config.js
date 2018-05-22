@@ -1,4 +1,5 @@
 module.exports = {
+  mode: 'development',
   entry: "./lib/main.js",
   output: {
     path: __dirname,
