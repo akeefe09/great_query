@@ -1,4 +1,4 @@
-# MaryQuery
+# my_jquery
 my_jquery is a vanilla JavaScript DOM interaction library modeled after the main features of jQuery, including:
 
 - HTTP requests
