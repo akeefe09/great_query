@@ -3,7 +3,7 @@ module.exports = {
   entry: "./lib/main.js",
   output: {
     path: __dirname,
-    filename: "./lib/jquery_lite.js"
+    filename: "./lib/great_query.js"
   },
   devtool: "source-map"
 };
